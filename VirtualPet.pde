@@ -1,10 +1,8 @@
-
-void setup(){
-  size(500,500);
+void setup()
+{
+size(550,550);
 }
-void draw(){
-  //more of your code here
-}
+void draw()
 {
 fill(255, 183,184);
 ellipse(250,250,150,150);
@@ -19,5 +17,15 @@ ellipse(280,220,10,10);
 fill(255,255,255);
 ellipse(235,280,10,20);
 ellipse(265,280,10,20);
+fill(255,167,169);
 ellipse(220,165, 20,30);
+ellipse(280,165,20,30);
+fill(255,183,184);
+ellipse(255,415,150,180);
+ellipse(220,510, 20,30);
+ellipse(290,510,20,30);
+fill(255,167,169);
+ellipse(169,380,30,20);
+ellipse(340,380,30,20);
+ellipse(255,415, 90, 130);
 }
